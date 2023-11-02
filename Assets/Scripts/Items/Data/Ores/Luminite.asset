@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a399ae2d4e91d347aa48a98001b186c, type: 3}
+  m_Name: Luminite
+  m_EditorClassIdentifier: 
+  id: luminite
+  itemName: Luminite
+  description: A celestial marvel that glows with a mesmerizing luminosity. Mined
+    from sacred crystalline caverns, it harnesses the essence of stars. The key ingredient
+    for crafting radiant armor and celestial weaponry, empowering champions to face
+    cosmic threats.
+  amount: 1
+  icon: {fileID: 21300000, guid: fceb53212d55bbd408c0eab55ce2ee8d, type: 3}
+  itemType: {fileID: 11400000, guid: 986cae2a98a24f34bb646e96aba73dd3, type: 2}
+  itemRarity: {fileID: 11400000, guid: 05fb2a48c0d119a44a47c2c45bc9c3fd, type: 2}

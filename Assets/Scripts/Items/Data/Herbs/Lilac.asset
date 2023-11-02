@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a399ae2d4e91d347aa48a98001b186c, type: 3}
+  m_Name: Lilac
+  m_EditorClassIdentifier: 
+  id: Lilac
+  itemName: Lilac
+  description: A fragrant, majestic plant blooming in enchanted gardens and twilight
+    forests. Its violet petals exude mystical allure, captivating senses. Sought
+    by alchemists, it infuses remedies that dispel enchantments and restore clarity.
+  amount: 1
+  icon: {fileID: 21300000, guid: 18ff23fa167498749b196e0c11c37876, type: 3}
+  itemType: {fileID: 11400000, guid: eb9649aa2c2e33e4192bda03915fb5bc, type: 2}
+  itemRarity: {fileID: 11400000, guid: 05fb2a48c0d119a44a47c2c45bc9c3fd, type: 2}
